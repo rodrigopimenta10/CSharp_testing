@@ -1,0 +1,11 @@
+/Users/rodrigopimenta/Projects/FirstDemo/FirstDemo/bin/Debug/netcoreapp2.1/FirstDemo.deps.json
+/Users/rodrigopimenta/Projects/FirstDemo/FirstDemo/bin/Debug/netcoreapp2.1/FirstDemo.runtimeconfig.json
+/Users/rodrigopimenta/Projects/FirstDemo/FirstDemo/bin/Debug/netcoreapp2.1/FirstDemo.runtimeconfig.dev.json
+/Users/rodrigopimenta/Projects/FirstDemo/FirstDemo/bin/Debug/netcoreapp2.1/FirstDemo.dll
+/Users/rodrigopimenta/Projects/FirstDemo/FirstDemo/bin/Debug/netcoreapp2.1/FirstDemo.pdb
+/Users/rodrigopimenta/Projects/FirstDemo/FirstDemo/obj/Debug/netcoreapp2.1/FirstDemo.csprojAssemblyReference.cache
+/Users/rodrigopimenta/Projects/FirstDemo/FirstDemo/obj/Debug/netcoreapp2.1/FirstDemo.csproj.CoreCompileInputs.cache
+/Users/rodrigopimenta/Projects/FirstDemo/FirstDemo/obj/Debug/netcoreapp2.1/FirstDemo.AssemblyInfoInputs.cache
+/Users/rodrigopimenta/Projects/FirstDemo/FirstDemo/obj/Debug/netcoreapp2.1/FirstDemo.AssemblyInfo.cs
+/Users/rodrigopimenta/Projects/FirstDemo/FirstDemo/obj/Debug/netcoreapp2.1/FirstDemo.dll
+/Users/rodrigopimenta/Projects/FirstDemo/FirstDemo/obj/Debug/netcoreapp2.1/FirstDemo.pdb
